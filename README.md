@@ -103,3 +103,6 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     - `for`: `Ejercicios/Ejercicio_20/CalcularSumaDeLosFactorialesPrimerNum_For.c`
     - `while`: `Ejercicios/Ejercicio_20/CalcularSumaDeLosFactorialesPrimerNum_While.c`
     - `do while`: `Ejercicios/Ejercicio_20/CalcularSumaDeLosFactorialesPrimerNum_DoWhile.c`
+
+
+![Los Minions Gritan Y Levantan Las Manos Para Celebrar GIF - Sonrisa Si Toma - Discover   Share GIFs](https://github.com/Cristhian1938/Taller-De-Programacion-en-C/assets/170330045/7ba25fd9-daaa-4d53-a7bb-787f0cc09bea)
