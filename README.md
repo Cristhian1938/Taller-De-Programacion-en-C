@@ -1,7 +1,7 @@
 # Taller de Programación en C
 Autor: Cristhian Alexander Dávila Sari 
 Fecha: 03/06/2024
-Propisito del repositorio
+###Proposito del repositorio
 Este repositorio contiene las soluciones a los ejercicios del taller de programación en C utilizando los bucles `for`, `while` y `do while`. 
 
 ## Estructura del Repositorio
